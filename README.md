@@ -51,4 +51,4 @@ Anderson Medeiros
 🔗 https://www.linkedin.com/in/medeirosanderson/
 ---
 📄 Licença
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença MIT. 
